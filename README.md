@@ -45,7 +45,7 @@ aws s3 mb s3://your-bucket-name --region us-west-2
 ### 2. Upload Object
 
 ```md
-aws s3 cp your-file.ext s3://your-bucket-name
+aws s3 cp your-file.png s3://your-bucket-name
 ```
 
 ### 3. Validate Private Access
